@@ -1,6 +1,6 @@
 # Algorithmic Logical Cafelator (ALC) v1.0
 
-Manhattan Cafe temalı, geceleri arkada müzik çalarken çay yudumlanarak geliştirilmiş **8-Bitlik bir Arithmetic Logic Unit Emülatörü** ve onun üzerine inşa edilmiş bir hesap makinesi. 
+Manhattan Cafe temalı, geceleri arkada müzik çalarken çay yudumlanarak geliştirilmiş **8-Bitlik bir Arithmetic Logic Unit Emülatörü** ve onun üzerine inşa edilmiş, onun sınırları ve yapısıyla çalışan bir hesap makinesi. 
 
 ## Özellikler ve Menü (Reçeteler)
 
