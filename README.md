@@ -31,5 +31,6 @@ ALC v1.0, işlemlerin durumunu takip etmek için 4 özel donanım sensörüne sa
 ## Nasıl Çalıştırılır?
 
 Doğrudan terminale python3 yazıp dosyayı terminal'inize sürekleyin ve enter tuşuna basın.
-## 📜 Lisans ve Teşekkür
-Bu yazılım, *Manhattan Cafe* kuralları ve *Filipinler Esintisi* altında tamamen eğlence ve kafa dağıtma amacıyla geliştirilmiştir. 7 yazılım kitabının bilgisi ve bitmeyen çay bardaklarının gücü adına! 🫖✨
+
+## Lisans
+Bu yazılım, Japon yarış atı ve Uma Musume karakteri *Manhattan Cafe* karakterinden esinlenilerek benim tarafımdan tamamen eğlence ve kafa dağıtma amacıyla geliştirilmiştir. Resmi değil, fan yapımıdır.
