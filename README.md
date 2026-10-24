@@ -24,7 +24,7 @@ ALC v1.0, işlemlerin durumunu takip etmek için 4 özel donanım sensörüne sa
 | **E** | Zero (Z) | **Empty** | Bardak tamamen boşaldığında (Sonuç = 0) tetiklenir. |
 | **S** | Carry (C) | **Spill** | Kahve bardaktan taştığında (8-bit sınırını aşınca: >255 veya <0) tetiklenir. |
 | **D** | Negative (N) | **Debt** | Hesap eksiye düştüğünde (İşaret biti / MSB = 1) tetiklenir. |
-| **O** | Overflow (V) | **Overbrew** | Kahve aşırı demlenip asitliği bozulduğunda (Donanım seviyesi taşma) tetiklenir. |
+| **O** | Overflow (V) | **Overbrew** | Kahve aşırı demlenip bozulduğunda (Donanım seviyesi taşma) tetiklenir. |
 
 ## Not:`Overbrew (O)` bayrağı, iki pozitif veya iki negatif kahve dozunun toplanıp işaret değiştirmesini `((a ^ res) & (b ^ res) & 0x80)` formülüyle donanımsal olarak yakalar. 
 
