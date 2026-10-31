@@ -8,7 +8,7 @@ Sıradan ALU'ları unutun. Burada bitler kahve çekirdekleri gibi harmanlanır:
 
 • 0 = ADD (Kahve Ekleme): İki farklı dozu birbirine karıştırır [Toplama İşlemi].
 • 1 = SUB (Kahve Eksiltme): Bardaktan büyük bir yudum alır [Çıkarma İşlemi].
-• 2 = AND (Aroma Kesişimi): Sadece ortak tat notalarını filtreler [Bitwise AND / VE İşlemi].
+• 2 = AND (Karışık Kahve: Sadece ortak tat notalarını filtreler [Bitwise AND / VE İşlemi].
 • 3 = OR (Harmanlama): Tüm aromaları tek bir bardakta birleştirir [Bitwise OR / VEYA İşlemi].
 • 4 = XOR (Özel Harman): Birbirine zıt, eşsiz aromaları seçer [Bitwise XOR / Özel VEYA İşlemi].
 • 5 = NOT (Ters Demleme): Kahveyi tersine çevirir ve kafeinsizleştirir [Bitwise NOT / Tersini Alma İşlemi].
