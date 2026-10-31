@@ -15,7 +15,7 @@ Sıradan ALU'ları unutun. Burada bitler kahve çekirdekleri gibi harmanlanır:
 • 6 = SHL (Sola Süzme): Şurubu ve yoğunluğu iki katına çıkarır [Bitwise Sola Kaydırma / Sola Bit Shift].
 • 7 = SHR (Sağa Süzme): Yoğunluğu yarıya indirir, dışarı sızan damlaları sayar [Bitwise Sağa Kaydırma / Sağa Bit Shift].
 
-## Barista Sensörleri (Durum Bayrakları)
+## Barista'nın Siparişinize Karşı Verdiği Yüz İfadesi (Durum Bayrakları)
 
 ALC v1.0, işlemlerin durumunu takip etmek için 4 özel donanım sensörüne sahiptir:
 
